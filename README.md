@@ -1,6 +1,8 @@
 # plurality
 
-Walkthrough
+Problem Set 3, Week 3, CS50 Course
+
+Walkthrough:
 
 https://youtu.be/ftOapzDjEb8
 
